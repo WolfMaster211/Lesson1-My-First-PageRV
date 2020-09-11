@@ -19,7 +19,22 @@ display: table;
   font-family: sans-serif;
 }
 
-.body {
+ul {
+  list-style-type: square;
+}
+
+img.catto {
+  border-radius: 25%
+}
+
+hr {
+  width: 25%;
+  border-style: dotted none none;
+  border-width: 0.25rem;
+  border-color: black;
+}
+
+body {
   width: 100vw;
   min-height: 100vh;
   background-color:#42455a;
